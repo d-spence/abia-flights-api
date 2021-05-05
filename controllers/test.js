@@ -3,7 +3,7 @@ const { readFile } = require('fs');
 const { convertXMLtoJSON } = require('./utilities');
 
 const getFlightsTest = (req, res, fn) => {
-  readFile(fn, 'utf8', (err, data) => {
+  readFile(fn, (err, data) => {
     if (err) {
       res.send(err);
     } else {
@@ -13,13 +13,11 @@ const getFlightsTest = (req, res, fn) => {
 }
 
 const getXMLFlightsTest = (req, res, fn) => {
-  readFile(fn, 'utf8', (err, data) => {
+  readFile(fn, (err, data) => {
     if (err) {
       res.send(err);
     } else {
-      // console.log(data);
       let jsonData = convertXMLtoJSON(data);
-      console.log(jsonData)
       res.json(jsonData);
     }
   });

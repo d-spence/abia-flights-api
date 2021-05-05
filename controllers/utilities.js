@@ -1,5 +1,5 @@
 // Utility helper functions
-const xml2js = require('xml2js');
+const { parseString } = require('xml2js');
 
 const xml2jsOptions = {
   explicitArray: false,
@@ -8,12 +8,18 @@ const xml2jsOptions = {
 
 const convertXMLtoJSON = (data) => {
   // Convert the passed-in xml data to a js object
-  xml2js.parseStringPromise(data, xml2jsOptions)
-    .then(result => {
+  let jsonData = null;
+
+  parseString(data, xml2jsOptions, (err, result) => {
+    if (err) {
+      throw new Error(err);
+    } else {
       // console.log(result);
-      return result;
-    })
-    .catch(err => console.log(err));
+      jsonData = result;
+    }
+  });
+
+  return jsonData; // return as js object
 }
 
 module.exports = {
