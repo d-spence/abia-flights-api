@@ -1,0 +1,5304 @@
+<?xml version="1.0" standalone="yes" ?>
+<data>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T10:11:00</stt>
+        <sttFormatted>10:11 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1098</flightNumber>
+        <status>Arrived 10:15A</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>8</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:00:00</att>
+        <attFormatted>10:15 AM</attFormatted>
+        <ett>2021-05-05T10:17:00</ett>
+        <ettFormatted>10:17 AM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N391DN</REG>
+        <CXR>DL</CXR>
+        <TRN>1098</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>10:11A</sttSmallerFormatted>
+        <attSmallerFormatted>10:15A</attSmallerFormatted>
+        <ettSmallerFormatted>10:17A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620227460000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T11:56:00</stt>
+        <sttFormatted>11:56 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1036</flightNumber>
+        <status>Arrived 12:04P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>8</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:49:00</att>
+        <attFormatted>12:04 PM</attFormatted>
+        <ett>2021-05-05T12:01:00</ett>
+        <ettFormatted>12:01 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N346DN</REG>
+        <CXR>DL</CXR>
+        <TRN>1036</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>11:56A</sttSmallerFormatted>
+        <attSmallerFormatted>12:04P</attSmallerFormatted>
+        <ettSmallerFormatted>12:01P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233760000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T13:59:00</stt>
+        <sttFormatted>1:59 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 2134</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>10</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:00:00</ett>
+        <ettFormatted>2:00 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N349NB</REG>
+        <CXR>DL</CXR>
+        <TRN>2134</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>1:59P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:00P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620241140000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T16:04:00</stt>
+        <sttFormatted>4:04 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 697</flightNumber>
+        <status>Now 4:15P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>8</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:15:00</ett>
+        <ettFormatted>4:15 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N113DX</REG>
+        <CXR>DL</CXR>
+        <TRN>697</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>4:04P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620248640000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T16:05:00</stt>
+        <sttFormatted>4:05 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3502</flightNumber>
+        <status>Now 4:15P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>19</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:15:00</ett>
+        <ettFormatted>4:15 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8669B</REG>
+        <CXR>WN</CXR>
+        <TRN>3502</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>4:05P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620248700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+            <so>W. Palm Beach</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>W. Palm Beach</city>
+        <stt>2021-05-05T16:05:00</stt>
+        <sttFormatted>4:05 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3502</flightNumber>
+        <status>Now 4:15P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>19</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:15:00</ett>
+        <ettFormatted>4:15 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8669B</REG>
+        <CXR>WN</CXR>
+        <TRN>3502</TRN>
+        <CTY>PBI</CTY>
+        <sttSmallerFormatted>4:05P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620248700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+            <so>W. Palm Beach</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T18:09:00</stt>
+        <sttFormatted>6:09 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 690</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>8</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:09:00</ett>
+        <ettFormatted>6:09 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N351DN</REG>
+        <CXR>DL</CXR>
+        <TRN>690</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>6:09P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:09P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620256140000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T20:07:00</stt>
+        <sttFormatted>8:07 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1062</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>8</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:07:00</ett>
+        <ettFormatted>8:07 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N316DN</REG>
+        <CXR>DL</CXR>
+        <TRN>1062</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>8:07P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:07P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620263220000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-05T21:38:00</stt>
+        <sttFormatted>9:38 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 2211</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>10</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:38:00</ett>
+        <ettFormatted>9:38 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N381DZ</REG>
+        <CXR>DL</CXR>
+        <TRN>2211</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>9:38P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:38P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620268680000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Atlanta</city>
+        <stt>2021-05-06T00:07:00</stt>
+        <sttFormatted>12:07 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1771</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>10</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-06T00:07:00</ett>
+        <ettFormatted>12:07 AM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N341DN</REG>
+        <CXR>DL</CXR>
+        <TRN>1771</TRN>
+        <CTY>ATL</CTY>
+        <sttSmallerFormatted>12:07A</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>12:07A</ettSmallerFormatted>
+        <sttDate>05-06-2021</sttDate>
+        <sttShortDate>05-06-21</sttShortDate>
+        <timeInMillis>1620277620000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Atlanta</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Baltimore</city>
+        <stt>2021-05-05T11:10:00</stt>
+        <sttFormatted>11:10 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 2986</flightNumber>
+        <status>Arrived 11:50A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>20</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:35:00</att>
+        <attFormatted>11:50 AM</attFormatted>
+        <ett>2021-05-05T11:50:00</ett>
+        <ettFormatted>11:50 AM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8627B</REG>
+        <CXR>WN</CXR>
+        <TRN>2986</TRN>
+        <CTY>BWI</CTY>
+        <sttSmallerFormatted>11:10A</sttSmallerFormatted>
+        <attSmallerFormatted>11:50A</attSmallerFormatted>
+        <ettSmallerFormatted>11:50A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620231000000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Baltimore</so>
+            <so>Boston</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Boston</city>
+        <stt>2021-05-05T11:10:00</stt>
+        <sttFormatted>11:10 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 2986</flightNumber>
+        <status>Arrived 11:50A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>20</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:35:00</att>
+        <attFormatted>11:50 AM</attFormatted>
+        <ett>2021-05-05T11:50:00</ett>
+        <ettFormatted>11:50 AM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8627B</REG>
+        <CXR>WN</CXR>
+        <TRN>2986</TRN>
+        <CTY>BOS</CTY>
+        <sttSmallerFormatted>11:10A</sttSmallerFormatted>
+        <attSmallerFormatted>11:50A</attSmallerFormatted>
+        <ettSmallerFormatted>11:50A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620231000000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Baltimore</so>
+            <so>Boston</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Baltimore</city>
+        <stt>2021-05-05T20:25:00</stt>
+        <sttFormatted>8:25 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4905</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:25:00</ett>
+        <ettFormatted>8:25 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N418WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4905</TRN>
+        <CTY>BWI</CTY>
+        <sttSmallerFormatted>8:25P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:25P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620264300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Baltimore</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Boston</city>
+        <stt>2021-05-05T10:45:00</stt>
+        <sttFormatted>10:45 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 344</flightNumber>
+        <status>Arrived 10:53A</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>5</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:38:00</att>
+        <attFormatted>10:53 AM</attFormatted>
+        <ett>2021-05-05T10:55:00</ett>
+        <ettFormatted>10:55 AM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N135DQ</REG>
+        <CXR>DL</CXR>
+        <TRN>344</TRN>
+        <CTY>BOS</CTY>
+        <sttSmallerFormatted>10:45A</sttSmallerFormatted>
+        <attSmallerFormatted>10:53A</attSmallerFormatted>
+        <ettSmallerFormatted>10:55A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620229500000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Boston</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Boston</city>
+        <stt>2021-05-05T13:43:00</stt>
+        <sttFormatted>1:43 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/B6.jpg</airlineLogo>
+        <flightNumber>B6 1039</flightNumber>
+        <status>Now 1:32P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>12</gate>
+        <airlineName>JetBlue Airways</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:32:00</ett>
+        <ettFormatted>1:32 PM</ettFormatted>
+        <TYP>E90</TYP>
+        <DIR>A</DIR>
+        <REG>N184JB</REG>
+        <CXR>B6</CXR>
+        <TRN>1039</TRN>
+        <CTY>BOS</CTY>
+        <sttSmallerFormatted>1:43P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:32P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620240180000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Boston</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Cancun</city>
+        <stt>2021-05-05T19:35:00</stt>
+        <sttFormatted>7:35 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 587</flightNumber>
+        <status>On Time</status>
+        <bags>8</bags>
+        <terminal>1</terminal>
+        <gate>5</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T19:35:00</ett>
+        <ettFormatted>7:35 PM</ettFormatted>
+        <TYP>73W</TYP>
+        <DIR>A</DIR>
+        <REG>N7727A</REG>
+        <CXR>WN</CXR>
+        <TRN>587</TRN>
+        <CTY>CUN</CTY>
+        <sttSmallerFormatted>7:35P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>7:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620261300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>I</DII>
+        <cities>
+            <so>Cancun</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Charlotte</city>
+        <stt>2021-05-05T11:30:00</stt>
+        <sttFormatted>11:30 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 968</flightNumber>
+        <status>Arrived 11:52A</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>30</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:38:00</att>
+        <attFormatted>11:52 AM</attFormatted>
+        <ett>2021-05-05T11:51:00</ett>
+        <ettFormatted>11:51 AM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N661AW</REG>
+        <CXR>AA</CXR>
+        <TRN>968</TRN>
+        <CTY>CLT</CTY>
+        <sttSmallerFormatted>11:30A</sttSmallerFormatted>
+        <attSmallerFormatted>11:52A</attSmallerFormatted>
+        <ettSmallerFormatted>11:51A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620232200000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Charlotte</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Charlotte</city>
+        <stt>2021-05-05T15:11:00</stt>
+        <sttFormatted>3:11 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1084</flightNumber>
+        <status>Now 3:05P</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>24</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:05:00</ett>
+        <ettFormatted>3:05 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N679AW</REG>
+        <CXR>AA</CXR>
+        <TRN>1084</TRN>
+        <CTY>CLT</CTY>
+        <sttSmallerFormatted>3:11P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:05P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245460000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Charlotte</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Charlotte</city>
+        <stt>2021-05-05T17:16:00</stt>
+        <sttFormatted>5:16 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 362</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>24</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:16:00</ett>
+        <ettFormatted>5:16 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N177US</REG>
+        <CXR>AA</CXR>
+        <TRN>362</TRN>
+        <CTY>CLT</CTY>
+        <sttSmallerFormatted>5:16P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:16P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620252960000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Charlotte</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Charlotte</city>
+        <stt>2021-05-06T00:40:00</stt>
+        <sttFormatted>12:40 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 764</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>22</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-06T00:40:00</ett>
+        <ettFormatted>12:40 AM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N923US</REG>
+        <CXR>AA</CXR>
+        <TRN>764</TRN>
+        <CTY>CLT</CTY>
+        <sttSmallerFormatted>12:40A</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>12:40A</ettSmallerFormatted>
+        <sttDate>05-06-2021</sttDate>
+        <sttShortDate>05-06-21</sttShortDate>
+        <timeInMillis>1620279600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Charlotte</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Chicago-Midway</city>
+        <stt>2021-05-05T11:15:00</stt>
+        <sttFormatted>11:15 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4093</flightNumber>
+        <status>Arrived 11:00A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>18</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:45:00</att>
+        <attFormatted>11:00 AM</attFormatted>
+        <ett>2021-05-05T11:00:00</ett>
+        <ettFormatted>11:00 AM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8617E</REG>
+        <CXR>WN</CXR>
+        <TRN>4093</TRN>
+        <CTY>MDW</CTY>
+        <sttSmallerFormatted>11:15A</sttSmallerFormatted>
+        <attSmallerFormatted>11:00A</attSmallerFormatted>
+        <ettSmallerFormatted>11:00A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620231300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Chicago-Midway</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Chicago-Midway</city>
+        <stt>2021-05-05T22:45:00</stt>
+        <sttFormatted>10:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4359</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:45:00</ett>
+        <ettFormatted>10:45 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8572X</REG>
+        <CXR>WN</CXR>
+        <TRN>4359</TRN>
+        <CTY>MDW</CTY>
+        <sttSmallerFormatted>10:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:45P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620272700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Chicago-Midway</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Chicago-O'Hare</city>
+        <stt>2021-05-05T11:39:00</stt>
+        <sttFormatted>11:39 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1629</flightNumber>
+        <status>Arrived 11:25A</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>26</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:10:00</att>
+        <attFormatted>11:25 AM</attFormatted>
+        <ett>2021-05-05T11:23:00</ett>
+        <ettFormatted>11:23 AM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N973NN</REG>
+        <CXR>AA</CXR>
+        <TRN>1629</TRN>
+        <CTY>ORD</CTY>
+        <sttSmallerFormatted>11:39A</sttSmallerFormatted>
+        <attSmallerFormatted>11:25A</attSmallerFormatted>
+        <ettSmallerFormatted>11:23A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620232740000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Chicago-O'Hare</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Chicago-O'Hare</city>
+        <stt>2021-05-05T11:47:00</stt>
+        <sttFormatted>11:47 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 2231</flightNumber>
+        <status>Arrived 11:39A</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>31</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:24:00</att>
+        <attFormatted>11:39 AM</attFormatted>
+        <ett>2021-05-05T11:40:00</ett>
+        <ettFormatted>11:40 AM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N24702</REG>
+        <CXR>UA</CXR>
+        <TRN>2231</TRN>
+        <CTY>ORD</CTY>
+        <sttSmallerFormatted>11:47A</sttSmallerFormatted>
+        <attSmallerFormatted>11:39A</attSmallerFormatted>
+        <ettSmallerFormatted>11:40A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233220000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Chicago-O'Hare</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T11:44:00</stt>
+        <sttFormatted>11:44 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1065</flightNumber>
+        <status>Arrived 11:33A</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>23</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:18:00</att>
+        <attFormatted>11:33 AM</attFormatted>
+        <ett>2021-05-05T11:32:00</ett>
+        <ettFormatted>11:32 AM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N973UY</REG>
+        <CXR>AA</CXR>
+        <TRN>1065</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>11:44A</sttSmallerFormatted>
+        <attSmallerFormatted>11:33A</attSmallerFormatted>
+        <ettSmallerFormatted>11:32A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233040000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T13:45:00</stt>
+        <sttFormatted>1:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 2198</flightNumber>
+        <status>Now 1:28P</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>23</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:28:00</ett>
+        <ettFormatted>1:28 PM</ettFormatted>
+        <TYP>32B</TYP>
+        <DIR>A</DIR>
+        <REG>N986AN</REG>
+        <CXR>AA</CXR>
+        <TRN>2198</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>1:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:28P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620240300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T14:44:00</stt>
+        <sttFormatted>2:44 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 760</flightNumber>
+        <status>Now 2:32P</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>30</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:32:00</ett>
+        <ettFormatted>2:32 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N811NN</REG>
+        <CXR>AA</CXR>
+        <TRN>760</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>2:44P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:32P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243840000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T15:50:00</stt>
+        <sttFormatted>3:50 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1064</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>23</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:50:00</ett>
+        <ettFormatted>3:50 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N355PU</REG>
+        <CXR>AA</CXR>
+        <TRN>1064</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>3:50P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:50P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620247800000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T16:37:00</stt>
+        <sttFormatted>4:37 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1004</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>22</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:37:00</ett>
+        <ettFormatted>4:37 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N998NN</REG>
+        <CXR>AA</CXR>
+        <TRN>1004</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>4:37P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:37P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620250620000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T17:43:00</stt>
+        <sttFormatted>5:43 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1060</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>22</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:43:00</ett>
+        <ettFormatted>5:43 PM</ettFormatted>
+        <TYP>32B</TYP>
+        <DIR>A</DIR>
+        <REG>N157AA</REG>
+        <CXR>AA</CXR>
+        <TRN>1060</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>5:43P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:43P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254580000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T18:40:00</stt>
+        <sttFormatted>6:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 2594</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>24</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:40:00</ett>
+        <ettFormatted>6:40 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N915NN</REG>
+        <CXR>AA</CXR>
+        <TRN>2594</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>6:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620258000000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas / Ft Worth - DFW</city>
+        <stt>2021-05-05T19:58:00</stt>
+        <sttFormatted>7:58 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 2199</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>23</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T19:58:00</ett>
+        <ettFormatted>7:58 PM</ettFormatted>
+        <TYP>32B</TYP>
+        <DIR>A</DIR>
+        <REG>N145AN</REG>
+        <CXR>AA</CXR>
+        <TRN>2199</TRN>
+        <CTY>DFW</CTY>
+        <sttSmallerFormatted>7:58P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>7:58P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620262680000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas / Ft Worth - DFW</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas-Love</city>
+        <stt>2021-05-05T10:35:00</stt>
+        <sttFormatted>10:35 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 2426</flightNumber>
+        <status>Arrived 10:35A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>21</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:20:00</att>
+        <attFormatted>10:35 AM</attFormatted>
+        <ett>2021-05-05T10:35:00</ett>
+        <ettFormatted>10:35 AM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N903WN</REG>
+        <CXR>WN</CXR>
+        <TRN>2426</TRN>
+        <CTY>DAL</CTY>
+        <sttSmallerFormatted>10:35A</sttSmallerFormatted>
+        <attSmallerFormatted>10:35A</attSmallerFormatted>
+        <ettSmallerFormatted>10:35A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620228900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas-Love</so>
+            <so>Amarillo</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Amarillo</city>
+        <stt>2021-05-05T10:35:00</stt>
+        <sttFormatted>10:35 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 2426</flightNumber>
+        <status>Arrived 10:35A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>21</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:20:00</att>
+        <attFormatted>10:35 AM</attFormatted>
+        <ett>2021-05-05T10:35:00</ett>
+        <ettFormatted>10:35 AM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N903WN</REG>
+        <CXR>WN</CXR>
+        <TRN>2426</TRN>
+        <CTY>AMA</CTY>
+        <sttSmallerFormatted>10:35A</sttSmallerFormatted>
+        <attSmallerFormatted>10:35A</attSmallerFormatted>
+        <ettSmallerFormatted>10:35A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620228900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas-Love</so>
+            <so>Amarillo</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas-Love</city>
+        <stt>2021-05-05T15:10:00</stt>
+        <sttFormatted>3:10 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4727</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>17</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:10:00</ett>
+        <ettFormatted>3:10 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8658A</REG>
+        <CXR>WN</CXR>
+        <TRN>4727</TRN>
+        <CTY>DAL</CTY>
+        <sttSmallerFormatted>3:10P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:10P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Dallas-Love</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas-Love</city>
+        <stt>2021-05-05T17:40:00</stt>
+        <sttFormatted>5:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3640</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>18</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:40:00</ett>
+        <ettFormatted>5:40 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8507C</REG>
+        <CXR>WN</CXR>
+        <TRN>3640</TRN>
+        <CTY>DAL</CTY>
+        <sttSmallerFormatted>5:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+            <so>Dallas-Love</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T17:40:00</stt>
+        <sttFormatted>5:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3640</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>18</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:40:00</ett>
+        <ettFormatted>5:40 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8507C</REG>
+        <CXR>WN</CXR>
+        <TRN>3640</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>5:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+            <so>Dallas-Love</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Dallas-Love</city>
+        <stt>2021-05-05T20:15:00</stt>
+        <sttFormatted>8:15 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4658</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:15:00</ett>
+        <ettFormatted>8:15 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N280WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4658</TRN>
+        <CTY>DAL</CTY>
+        <sttSmallerFormatted>8:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620263700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Santa Ana</so>
+            <so>Dallas-Love</so>
+            <so>Oakland</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Santa Ana</city>
+        <stt>2021-05-05T20:15:00</stt>
+        <sttFormatted>8:15 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4658</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:15:00</ett>
+        <ettFormatted>8:15 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N280WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4658</TRN>
+        <CTY>SNA</CTY>
+        <sttSmallerFormatted>8:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620263700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Santa Ana</so>
+            <so>Dallas-Love</so>
+            <so>Oakland</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Oakland</city>
+        <stt>2021-05-05T20:15:00</stt>
+        <sttFormatted>8:15 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4658</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:15:00</ett>
+        <ettFormatted>8:15 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N280WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4658</TRN>
+        <CTY>OAK</CTY>
+        <sttSmallerFormatted>8:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620263700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Santa Ana</so>
+            <so>Dallas-Love</so>
+            <so>Oakland</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T12:04:00</stt>
+        <sttFormatted>12:04 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/F9.jpg</airlineLogo>
+        <flightNumber>F9 190</flightNumber>
+        <status>Arrived 11:40A</status>
+        <bags>S1</bags>
+        <terminal>SOUTH</terminal>
+        <gate>S2</gate>
+        <airlineName>Frontier Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:25:00</att>
+        <attFormatted>11:40 AM</attFormatted>
+        <ett>2021-05-05T11:37:00</ett>
+        <ettFormatted>11:37 AM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N238FR</REG>
+        <CXR>F9</CXR>
+        <TRN>190</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>12:04P</sttSmallerFormatted>
+        <attSmallerFormatted>11:40A</attSmallerFormatted>
+        <ettSmallerFormatted>11:37A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620234240000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T13:22:00</stt>
+        <sttFormatted>1:22 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 1026</flightNumber>
+        <status>Now 1:40P</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>29</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:40:00</ett>
+        <ettFormatted>1:40 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N12238</REG>
+        <CXR>UA</CXR>
+        <TRN>1026</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>1:22P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620238920000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T14:40:00</stt>
+        <sttFormatted>2:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3878</flightNumber>
+        <status>Now 3:55P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>14</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:55:00</ett>
+        <ettFormatted>3:55 PM</ettFormatted>
+        <TYP>73W</TYP>
+        <DIR>A</DIR>
+        <REG>N401WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3878</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>2:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:55P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T16:29:00</stt>
+        <sttFormatted>4:29 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 2377</flightNumber>
+        <status>Now 4:22P</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>29</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:22:00</ett>
+        <ettFormatted>4:22 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N17245</REG>
+        <CXR>UA</CXR>
+        <TRN>2377</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>4:29P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:22P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620250140000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T17:10:00</stt>
+        <sttFormatted>5:10 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4144</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>16</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:10:00</ett>
+        <ettFormatted>5:10 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N557WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4144</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>5:10P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:10P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620252600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Denver</city>
+        <stt>2021-05-05T22:00:00</stt>
+        <sttFormatted>10:00 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3613</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:00:00</ett>
+        <ettFormatted>10:00 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N248WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3613</TRN>
+        <CTY>DEN</CTY>
+        <sttSmallerFormatted>10:00P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:00P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620270000000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Denver</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Detroit</city>
+        <stt>2021-05-05T11:13:00</stt>
+        <sttFormatted>11:13 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 2509</flightNumber>
+        <status>Arrived 11:17A</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>10</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:02:00</att>
+        <attFormatted>11:17 AM</attFormatted>
+        <ett>2021-05-05T11:21:00</ett>
+        <ettFormatted>11:21 AM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N109DU</REG>
+        <CXR>DL</CXR>
+        <TRN>2509</TRN>
+        <CTY>DTW</CTY>
+        <sttSmallerFormatted>11:13A</sttSmallerFormatted>
+        <attSmallerFormatted>11:17A</attSmallerFormatted>
+        <ettSmallerFormatted>11:21A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620231180000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Detroit</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Detroit</city>
+        <stt>2021-05-05T14:42:00</stt>
+        <sttFormatted>2:42 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 486</flightNumber>
+        <status>Now 2:29P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>8</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:29:00</ett>
+        <ettFormatted>2:29 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N319NB</REG>
+        <CXR>DL</CXR>
+        <TRN>486</TRN>
+        <CTY>DTW</CTY>
+        <sttSmallerFormatted>2:42P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:29P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243720000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Detroit</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Detroit</city>
+        <stt>2021-05-05T21:52:00</stt>
+        <sttFormatted>9:52 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1285</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>5</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:52:00</ett>
+        <ettFormatted>9:52 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N370NB</REG>
+        <CXR>DL</CXR>
+        <TRN>1285</TRN>
+        <CTY>DTW</CTY>
+        <sttSmallerFormatted>9:52P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:52P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620269520000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Detroit</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Ft.Lauderdale</city>
+        <stt>2021-05-05T18:27:00</stt>
+        <sttFormatted>6:27 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/NK.jpg</airlineLogo>
+        <flightNumber>NK 517</flightNumber>
+        <status>On Time</status>
+        <bags>6</bags>
+        <terminal>1</terminal>
+        <gate>11</gate>
+        <airlineName>Spirit Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:27:00</ett>
+        <ettFormatted>6:27 PM</ettFormatted>
+        <TYP>32A</TYP>
+        <DIR>A</DIR>
+        <REG>N910NK</REG>
+        <CXR>NK</CXR>
+        <TRN>517</TRN>
+        <CTY>FLL</CTY>
+        <sttSmallerFormatted>6:27P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:27P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620257220000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Ft.Lauderdale</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Ft.Lauderdale</city>
+        <stt>2021-05-05T23:08:00</stt>
+        <sttFormatted>11:08 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/B6.jpg</airlineLogo>
+        <flightNumber>B6 511</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>6</gate>
+        <airlineName>JetBlue Airways</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:08:00</ett>
+        <ettFormatted>11:08 PM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N625JB</REG>
+        <CXR>B6</CXR>
+        <TRN>511</TRN>
+        <CTY>FLL</CTY>
+        <sttSmallerFormatted>11:08P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:08P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620274080000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Ft.Lauderdale</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Honolulu</city>
+        <stt>2021-05-05T22:15:00</stt>
+        <sttFormatted>10:15 PM</sttFormatted>
+        <airlineLogo>&#160;</airlineLogo>
+        <flightNumber>HA 82</flightNumber>
+        <status>On Time</status>
+        <bags>&#160;</bags>
+        <terminal>1</terminal>
+        <gate>3</gate>
+        <airlineName>Hawaiian Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>#</ett>
+        <ettFormatted>&#160;</ettFormatted>
+        <TYP>332</TYP>
+        <DIR>A</DIR>
+        <REG>N383HA</REG>
+        <CXR>HA</CXR>
+        <TRN>82</TRN>
+        <CTY>HNL</CTY>
+        <sttSmallerFormatted>10:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>&#160;</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620270900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Helena</so>
+            <so>Honolulu</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Helena</city>
+        <stt>2021-05-05T22:15:00</stt>
+        <sttFormatted>10:15 PM</sttFormatted>
+        <airlineLogo>&#160;</airlineLogo>
+        <flightNumber>HA 82</flightNumber>
+        <status>On Time</status>
+        <bags>&#160;</bags>
+        <terminal>1</terminal>
+        <gate>3</gate>
+        <airlineName>Hawaiian Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>#</ett>
+        <ettFormatted>&#160;</ettFormatted>
+        <TYP>332</TYP>
+        <DIR>A</DIR>
+        <REG>N383HA</REG>
+        <CXR>HA</CXR>
+        <TRN>82</TRN>
+        <CTY>HLN</CTY>
+        <sttSmallerFormatted>10:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>&#160;</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620270900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Helena</so>
+            <so>Honolulu</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston</city>
+        <stt>2021-05-05T11:45:00</stt>
+        <sttFormatted>11:45 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4752</flightNumber>
+        <status>Arrived 11:50A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>17</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:35:00</att>
+        <attFormatted>11:50 AM</attFormatted>
+        <ett>2021-05-05T11:50:00</ett>
+        <ettFormatted>11:50 AM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N454WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4752</TRN>
+        <CTY>HOU</CTY>
+        <sttSmallerFormatted>11:45A</sttSmallerFormatted>
+        <attSmallerFormatted>11:50A</attSmallerFormatted>
+        <ettSmallerFormatted>11:50A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+            <so>Albuquerque</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Albuquerque</city>
+        <stt>2021-05-05T11:45:00</stt>
+        <sttFormatted>11:45 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4752</flightNumber>
+        <status>Arrived 11:50A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>17</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:35:00</att>
+        <attFormatted>11:50 AM</attFormatted>
+        <ett>2021-05-05T11:50:00</ett>
+        <ettFormatted>11:50 AM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N454WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4752</TRN>
+        <CTY>ABQ</CTY>
+        <sttSmallerFormatted>11:45A</sttSmallerFormatted>
+        <attSmallerFormatted>11:50A</attSmallerFormatted>
+        <ettSmallerFormatted>11:50A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+            <so>Albuquerque</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston</city>
+        <stt>2021-05-05T17:50:00</stt>
+        <sttFormatted>5:50 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3776</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>17</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:50:00</ett>
+        <ettFormatted>5:50 PM</ettFormatted>
+        <TYP>73W</TYP>
+        <DIR>A</DIR>
+        <REG>N7725A</REG>
+        <CXR>WN</CXR>
+        <TRN>3776</TRN>
+        <CTY>HOU</CTY>
+        <sttSmallerFormatted>5:50P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:50P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620255000000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston</city>
+        <stt>2021-05-05T21:20:00</stt>
+        <sttFormatted>9:20 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3653</flightNumber>
+        <status>Now 9:30P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:30:00</ett>
+        <ettFormatted>9:30 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8504G</REG>
+        <CXR>WN</CXR>
+        <TRN>3653</TRN>
+        <CTY>HOU</CTY>
+        <sttSmallerFormatted>9:20P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:30P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620267600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+            <so>Baltimore</so>
+            <so>Islip</so>
+            <so>Ft.Lauderdale</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Baltimore</city>
+        <stt>2021-05-05T21:20:00</stt>
+        <sttFormatted>9:20 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3653</flightNumber>
+        <status>Now 9:30P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:30:00</ett>
+        <ettFormatted>9:30 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8504G</REG>
+        <CXR>WN</CXR>
+        <TRN>3653</TRN>
+        <CTY>BWI</CTY>
+        <sttSmallerFormatted>9:20P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:30P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620267600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+            <so>Baltimore</so>
+            <so>Islip</so>
+            <so>Ft.Lauderdale</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Islip</city>
+        <stt>2021-05-05T21:20:00</stt>
+        <sttFormatted>9:20 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3653</flightNumber>
+        <status>Now 9:30P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:30:00</ett>
+        <ettFormatted>9:30 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8504G</REG>
+        <CXR>WN</CXR>
+        <TRN>3653</TRN>
+        <CTY>ISP</CTY>
+        <sttSmallerFormatted>9:20P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:30P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620267600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+            <so>Baltimore</so>
+            <so>Islip</so>
+            <so>Ft.Lauderdale</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Ft.Lauderdale</city>
+        <stt>2021-05-05T21:20:00</stt>
+        <sttFormatted>9:20 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3653</flightNumber>
+        <status>Now 9:30P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:30:00</ett>
+        <ettFormatted>9:30 PM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8504G</REG>
+        <CXR>WN</CXR>
+        <TRN>3653</TRN>
+        <CTY>FLL</CTY>
+        <sttSmallerFormatted>9:20P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:30P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620267600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston</so>
+            <so>Baltimore</so>
+            <so>Islip</so>
+            <so>Ft.Lauderdale</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston-Bush</city>
+        <stt>2021-05-05T10:58:00</stt>
+        <sttFormatted>10:58 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 6189</flightNumber>
+        <status>Arrived 11:12A</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>25</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:57:00</att>
+        <attFormatted>11:12 AM</attFormatted>
+        <ett>2021-05-05T11:14:00</ett>
+        <ettFormatted>11:14 AM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N86316</REG>
+        <CXR>UA</CXR>
+        <TRN>6189</TRN>
+        <CTY>IAH</CTY>
+        <sttSmallerFormatted>10:58A</sttSmallerFormatted>
+        <attSmallerFormatted>11:12A</attSmallerFormatted>
+        <ettSmallerFormatted>11:14A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620230280000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston-Bush</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston-Bush</city>
+        <stt>2021-05-05T12:53:00</stt>
+        <sttFormatted>12:53 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 4782</flightNumber>
+        <status>Arrived 12:41P</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>25</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T12:26:00</att>
+        <attFormatted>12:41 PM</attFormatted>
+        <ett>2021-05-05T12:45:00</ett>
+        <ettFormatted>12:45 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N131SY</REG>
+        <CXR>UA</CXR>
+        <TRN>4782</TRN>
+        <CTY>IAH</CTY>
+        <sttSmallerFormatted>12:53P</sttSmallerFormatted>
+        <attSmallerFormatted>12:41P</attSmallerFormatted>
+        <ettSmallerFormatted>12:45P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620237180000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston-Bush</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston-Bush</city>
+        <stt>2021-05-05T15:29:00</stt>
+        <sttFormatted>3:29 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 2095</flightNumber>
+        <status>On Time</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>31</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:28:00</ett>
+        <ettFormatted>3:28 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N37267</REG>
+        <CXR>UA</CXR>
+        <TRN>2095</TRN>
+        <CTY>IAH</CTY>
+        <sttSmallerFormatted>3:29P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:28P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620246540000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston-Bush</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston-Bush</city>
+        <stt>2021-05-05T18:11:00</stt>
+        <sttFormatted>6:11 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 289</flightNumber>
+        <status>On Time</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>29</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:11:00</ett>
+        <ettFormatted>6:11 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N897UA</REG>
+        <CXR>UA</CXR>
+        <TRN>289</TRN>
+        <CTY>IAH</CTY>
+        <sttSmallerFormatted>6:11P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:11P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620256260000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston-Bush</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Houston-Bush</city>
+        <stt>2021-05-05T21:01:00</stt>
+        <sttFormatted>9:01 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 323</flightNumber>
+        <status>On Time</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>31</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T21:01:00</ett>
+        <ettFormatted>9:01 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N73275</REG>
+        <CXR>UA</CXR>
+        <TRN>323</TRN>
+        <CTY>IAH</CTY>
+        <sttSmallerFormatted>9:01P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>9:01P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620266460000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Houston-Bush</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Las Vegas</city>
+        <stt>2021-05-05T14:05:00</stt>
+        <sttFormatted>2:05 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3628</flightNumber>
+        <status>Now 2:15P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>17</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:15:00</ett>
+        <ettFormatted>2:15 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N799SW</REG>
+        <CXR>WN</CXR>
+        <TRN>3628</TRN>
+        <CTY>LAS</CTY>
+        <sttSmallerFormatted>2:05P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620241500000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Las Vegas</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Las Vegas</city>
+        <stt>2021-05-05T18:15:00</stt>
+        <sttFormatted>6:15 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/NK.jpg</airlineLogo>
+        <flightNumber>NK 540</flightNumber>
+        <status>On Time</status>
+        <bags>6</bags>
+        <terminal>1</terminal>
+        <gate>5</gate>
+        <airlineName>Spirit Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:15:00</ett>
+        <ettFormatted>6:15 PM</ettFormatted>
+        <TYP>32A</TYP>
+        <DIR>A</DIR>
+        <REG>N647NK</REG>
+        <CXR>NK</CXR>
+        <TRN>540</TRN>
+        <CTY>LAS</CTY>
+        <sttSmallerFormatted>6:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620256500000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Las Vegas</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Las Vegas</city>
+        <stt>2021-05-05T20:25:00</stt>
+        <sttFormatted>8:25 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4030</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:25:00</ett>
+        <ettFormatted>8:25 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N907WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4030</TRN>
+        <CTY>LAS</CTY>
+        <sttSmallerFormatted>8:25P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:25P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620264300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Las Vegas</so>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T20:25:00</stt>
+        <sttFormatted>8:25 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4030</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:25:00</ett>
+        <ettFormatted>8:25 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N907WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4030</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>8:25P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:25P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620264300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Las Vegas</so>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Long Beach</city>
+        <stt>2021-05-05T17:35:00</stt>
+        <sttFormatted>5:35 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 2412</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:35:00</ett>
+        <ettFormatted>5:35 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8614M</REG>
+        <CXR>WN</CXR>
+        <TRN>2412</TRN>
+        <CTY>LGB</CTY>
+        <sttSmallerFormatted>5:35P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Long Beach</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T10:52:00</stt>
+        <sttFormatted>10:52 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/NK.jpg</airlineLogo>
+        <flightNumber>NK 598</flightNumber>
+        <status>Arrived 10:34A</status>
+        <bags>6</bags>
+        <terminal>1</terminal>
+        <gate>11</gate>
+        <airlineName>Spirit Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:19:00</att>
+        <attFormatted>10:34 AM</attFormatted>
+        <ett>2021-05-05T10:35:00</ett>
+        <ettFormatted>10:35 AM</ettFormatted>
+        <TYP>32A</TYP>
+        <DIR>A</DIR>
+        <REG>N910NK</REG>
+        <CXR>NK</CXR>
+        <TRN>598</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>10:52A</sttSmallerFormatted>
+        <attSmallerFormatted>10:34A</attSmallerFormatted>
+        <ettSmallerFormatted>10:35A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620229920000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T12:55:00</stt>
+        <sttFormatted>12:55 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 539</flightNumber>
+        <status>Arrived 12:41P</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>30</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T12:26:00</att>
+        <attFormatted>12:41 PM</attFormatted>
+        <ett>2021-05-05T12:42:00</ett>
+        <ettFormatted>12:42 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N988NN</REG>
+        <CXR>AA</CXR>
+        <TRN>539</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>12:55P</sttSmallerFormatted>
+        <attSmallerFormatted>12:41P</attSmallerFormatted>
+        <ettSmallerFormatted>12:42P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620237300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T14:52:00</stt>
+        <sttFormatted>2:52 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 986</flightNumber>
+        <status>Now 2:22P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>7</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:22:00</ett>
+        <ettFormatted>2:22 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N315DN</REG>
+        <CXR>DL</CXR>
+        <TRN>986</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>2:52P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:22P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620244320000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T14:55:00</stt>
+        <sttFormatted>2:55 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4381</flightNumber>
+        <status>Now 2:35P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>18</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:35:00</ett>
+        <ettFormatted>2:35 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8315C</REG>
+        <CXR>WN</CXR>
+        <TRN>4381</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>2:55P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620244500000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T15:23:00</stt>
+        <sttFormatted>3:23 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/B6.jpg</airlineLogo>
+        <flightNumber>B6 1116</flightNumber>
+        <status>Now 3:15P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>12</gate>
+        <airlineName>JetBlue Airways</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:15:00</ett>
+        <ettFormatted>3:15 PM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N715JB</REG>
+        <CXR>B6</CXR>
+        <TRN>1116</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>3:23P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620246180000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T17:08:00</stt>
+        <sttFormatted>5:08 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 498</flightNumber>
+        <status>Now 4:58P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>7</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:58:00</ett>
+        <ettFormatted>4:58 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N3738B</REG>
+        <CXR>DL</CXR>
+        <TRN>498</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>5:08P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:58P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620252480000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T17:43:00</stt>
+        <sttFormatted>5:43 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 5553</flightNumber>
+        <status>On Time</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>25</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:43:00</ett>
+        <ettFormatted>5:43 PM</ettFormatted>
+        <TYP>E70</TYP>
+        <DIR>A</DIR>
+        <REG>N109SY</REG>
+        <CXR>UA</CXR>
+        <TRN>5553</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>5:43P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:43P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254580000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T17:45:00</stt>
+        <sttFormatted>5:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 3495</flightNumber>
+        <status>Now 5:25P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>32</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:25:00</ett>
+        <ettFormatted>5:25 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N186SY</REG>
+        <CXR>AS</CXR>
+        <TRN>3495</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>5:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:25P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T20:54:00</stt>
+        <sttFormatted>8:54 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 853</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>24</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:54:00</ett>
+        <ettFormatted>8:54 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N988NN</REG>
+        <CXR>AA</CXR>
+        <TRN>853</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>8:54P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:54P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620266040000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Los Angeles-LAX</city>
+        <stt>2021-05-05T23:54:00</stt>
+        <sttFormatted>11:54 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1161</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>11</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:54:00</ett>
+        <ettFormatted>11:54 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N315DN</REG>
+        <CXR>DL</CXR>
+        <TRN>1161</TRN>
+        <CTY>LAX</CTY>
+        <sttSmallerFormatted>11:54P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:54P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620276840000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Los Angeles-LAX</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Miami</city>
+        <stt>2021-05-05T11:55:00</stt>
+        <sttFormatted>11:55 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 4254</flightNumber>
+        <status>Arrived 11:29A</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>22</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:14:00</att>
+        <attFormatted>11:29 AM</attFormatted>
+        <ett>2021-05-05T11:30:00</ett>
+        <ettFormatted>11:30 AM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N274NN</REG>
+        <CXR>AA</CXR>
+        <TRN>4254</TRN>
+        <CTY>MIA</CTY>
+        <sttSmallerFormatted>11:55A</sttSmallerFormatted>
+        <attSmallerFormatted>11:29A</attSmallerFormatted>
+        <ettSmallerFormatted>11:30A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Miami</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Miami</city>
+        <stt>2021-05-05T22:14:00</stt>
+        <sttFormatted>10:14 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1396</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>32</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:14:00</ett>
+        <ettFormatted>10:14 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N315PE</REG>
+        <CXR>AA</CXR>
+        <TRN>1396</TRN>
+        <CTY>MIA</CTY>
+        <sttSmallerFormatted>10:14P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:14P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620270840000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Miami</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Miami</city>
+        <stt>2021-05-05T23:39:00</stt>
+        <sttFormatted>11:39 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 2629</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>26</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:39:00</ett>
+        <ettFormatted>11:39 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N301PA</REG>
+        <CXR>AA</CXR>
+        <TRN>2629</TRN>
+        <CTY>MIA</CTY>
+        <sttSmallerFormatted>11:39P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:39P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620275940000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Miami</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Minneapolis</city>
+        <stt>2021-05-05T10:50:00</stt>
+        <sttFormatted>10:50 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 514</flightNumber>
+        <status>Arrived 10:39A</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>9</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:24:00</att>
+        <attFormatted>10:39 AM</attFormatted>
+        <ett>2021-05-05T10:38:00</ett>
+        <ettFormatted>10:38 AM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N116DU</REG>
+        <CXR>DL</CXR>
+        <TRN>514</TRN>
+        <CTY>MSP</CTY>
+        <sttSmallerFormatted>10:50A</sttSmallerFormatted>
+        <attSmallerFormatted>10:39A</attSmallerFormatted>
+        <ettSmallerFormatted>10:38A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620229800000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Minneapolis</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Minneapolis</city>
+        <stt>2021-05-05T18:45:00</stt>
+        <sttFormatted>6:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 2779</flightNumber>
+        <status>Now 6:35P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>7</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:35:00</ett>
+        <ettFormatted>6:35 PM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N135DQ</REG>
+        <CXR>DL</CXR>
+        <TRN>2779</TRN>
+        <CTY>MSP</CTY>
+        <sttSmallerFormatted>6:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620258300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Minneapolis</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Minneapolis</city>
+        <stt>2021-05-05T23:46:00</stt>
+        <sttFormatted>11:46 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 518</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>3</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:46:00</ett>
+        <ettFormatted>11:46 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N343DN</REG>
+        <CXR>DL</CXR>
+        <TRN>518</TRN>
+        <CTY>MSP</CTY>
+        <sttSmallerFormatted>11:46P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:46P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620276360000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Minneapolis</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Nashville</city>
+        <stt>2021-05-05T11:25:00</stt>
+        <sttFormatted>11:25 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3702</flightNumber>
+        <status>Arrived 12:20P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>16</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T12:05:00</att>
+        <attFormatted>12:20 PM</attFormatted>
+        <ett>2021-05-05T12:20:00</ett>
+        <ettFormatted>12:20 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N409WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3702</TRN>
+        <CTY>BNA</CTY>
+        <sttSmallerFormatted>11:25A</sttSmallerFormatted>
+        <attSmallerFormatted>12:20P</attSmallerFormatted>
+        <ettSmallerFormatted>12:20P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620231900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Nashville</so>
+            <so>Panama City</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Panama City</city>
+        <stt>2021-05-05T11:25:00</stt>
+        <sttFormatted>11:25 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3702</flightNumber>
+        <status>Arrived 12:20P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>16</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T12:05:00</att>
+        <attFormatted>12:20 PM</attFormatted>
+        <ett>2021-05-05T12:20:00</ett>
+        <ettFormatted>12:20 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N409WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3702</TRN>
+        <CTY>ECP</CTY>
+        <sttSmallerFormatted>11:25A</sttSmallerFormatted>
+        <attSmallerFormatted>12:20P</attSmallerFormatted>
+        <ettSmallerFormatted>12:20P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620231900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Nashville</so>
+            <so>Panama City</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Nashville</city>
+        <stt>2021-05-05T19:40:00</stt>
+        <sttFormatted>7:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3898</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T19:40:00</ett>
+        <ettFormatted>7:40 PM</ettFormatted>
+        <TYP>7M8</TYP>
+        <DIR>A</DIR>
+        <REG>N8726H</REG>
+        <CXR>WN</CXR>
+        <TRN>3898</TRN>
+        <CTY>BNA</CTY>
+        <sttSmallerFormatted>7:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>7:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620261600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Nashville</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>New York - JFK</city>
+        <stt>2021-05-05T11:39:00</stt>
+        <sttFormatted>11:39 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 368</flightNumber>
+        <status>Arrived 11:39A</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>7</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:24:00</att>
+        <attFormatted>11:39 AM</attFormatted>
+        <ett>2021-05-05T11:42:00</ett>
+        <ettFormatted>11:42 AM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N334NW</REG>
+        <CXR>DL</CXR>
+        <TRN>368</TRN>
+        <CTY>JFK</CTY>
+        <sttSmallerFormatted>11:39A</sttSmallerFormatted>
+        <attSmallerFormatted>11:39A</attSmallerFormatted>
+        <ettSmallerFormatted>11:42A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620232740000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>New York - JFK</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>New York - JFK</city>
+        <stt>2021-05-05T15:39:00</stt>
+        <sttFormatted>3:39 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/B6.jpg</airlineLogo>
+        <flightNumber>B6 795</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>6</gate>
+        <airlineName>JetBlue Airways</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T15:34:00</ett>
+        <ettFormatted>3:34 PM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N789JB</REG>
+        <CXR>B6</CXR>
+        <TRN>795</TRN>
+        <CTY>JFK</CTY>
+        <sttSmallerFormatted>3:39P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>3:34P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620247140000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>New York - JFK</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>New York - JFK</city>
+        <stt>2021-05-05T22:37:00</stt>
+        <sttFormatted>10:37 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 346</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>7</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:37:00</ett>
+        <ettFormatted>10:37 PM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N334NW</REG>
+        <CXR>DL</CXR>
+        <TRN>346</TRN>
+        <CTY>JFK</CTY>
+        <sttSmallerFormatted>10:37P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:37P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620272220000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>New York - JFK</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>New York - JFK</city>
+        <stt>2021-05-05T22:39:00</stt>
+        <sttFormatted>10:39 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 2514</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>34</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:39:00</ett>
+        <ettFormatted>10:39 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N955NN</REG>
+        <CXR>AA</CXR>
+        <TRN>2514</TRN>
+        <CTY>JFK</CTY>
+        <sttSmallerFormatted>10:39P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:39P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620272340000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>New York - JFK</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Newark</city>
+        <stt>2021-05-05T12:07:00</stt>
+        <sttFormatted>12:07 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 3507</flightNumber>
+        <status>Arrived 11:42A</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>33</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:27:00</att>
+        <attFormatted>11:42 AM</attFormatted>
+        <ett>2021-05-05T11:39:00</ett>
+        <ettFormatted>11:39 AM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N739YX</REG>
+        <CXR>UA</CXR>
+        <TRN>3507</TRN>
+        <CTY>EWR</CTY>
+        <sttSmallerFormatted>12:07P</sttSmallerFormatted>
+        <attSmallerFormatted>11:42A</attSmallerFormatted>
+        <ettSmallerFormatted>11:39A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620234420000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Newark</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Newark</city>
+        <stt>2021-05-05T18:42:00</stt>
+        <sttFormatted>6:42 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 3574</flightNumber>
+        <status>On Time</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>31</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:42:00</ett>
+        <ettFormatted>6:42 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N750YX</REG>
+        <CXR>UA</CXR>
+        <TRN>3574</TRN>
+        <CTY>EWR</CTY>
+        <sttSmallerFormatted>6:42P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:42P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620258120000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Newark</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Oakland</city>
+        <stt>2021-05-05T14:45:00</stt>
+        <sttFormatted>2:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4891</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>20</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:48:00</ett>
+        <ettFormatted>2:48 PM</ettFormatted>
+        <TYP>73W</TYP>
+        <DIR>A</DIR>
+        <REG>N567WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4891</TRN>
+        <CTY>OAK</CTY>
+        <sttSmallerFormatted>2:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:48P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Palm Springs</so>
+            <so>Oakland</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Palm Springs</city>
+        <stt>2021-05-05T14:45:00</stt>
+        <sttFormatted>2:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4891</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>20</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:48:00</ett>
+        <ettFormatted>2:48 PM</ettFormatted>
+        <TYP>73W</TYP>
+        <DIR>A</DIR>
+        <REG>N567WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4891</TRN>
+        <CTY>PSP</CTY>
+        <sttSmallerFormatted>2:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:48P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Palm Springs</so>
+            <so>Oakland</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Orlando</city>
+        <stt>2021-05-05T13:55:00</stt>
+        <sttFormatted>1:55 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4825</flightNumber>
+        <status>Now 2:40P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>19</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:40:00</ett>
+        <ettFormatted>2:40 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N964WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4825</TRN>
+        <CTY>MCO</CTY>
+        <sttSmallerFormatted>1:55P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620240900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Fort Myers</so>
+            <so>Orlando</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Fort Myers</city>
+        <stt>2021-05-05T13:55:00</stt>
+        <sttFormatted>1:55 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4825</flightNumber>
+        <status>Now 2:40P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>19</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:40:00</ett>
+        <ettFormatted>2:40 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N964WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4825</TRN>
+        <CTY>RSW</CTY>
+        <sttSmallerFormatted>1:55P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620240900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Fort Myers</so>
+            <so>Orlando</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Orlando</city>
+        <stt>2021-05-05T17:15:00</stt>
+        <sttFormatted>5:15 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/NK.jpg</airlineLogo>
+        <flightNumber>NK 733</flightNumber>
+        <status>On Time</status>
+        <bags>6</bags>
+        <terminal>1</terminal>
+        <gate>11</gate>
+        <airlineName>Spirit Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:15:00</ett>
+        <ettFormatted>5:15 PM</ettFormatted>
+        <TYP>32A</TYP>
+        <DIR>A</DIR>
+        <REG>N640NK</REG>
+        <CXR>NK</CXR>
+        <TRN>733</TRN>
+        <CTY>MCO</CTY>
+        <sttSmallerFormatted>5:15P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:15P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620252900000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Orlando</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Orlando</city>
+        <stt>2021-05-05T18:35:00</stt>
+        <sttFormatted>6:35 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/F9.jpg</airlineLogo>
+        <flightNumber>F9 1019</flightNumber>
+        <status>On Time</status>
+        <bags>S1</bags>
+        <terminal>SOUTH</terminal>
+        <gate>S2</gate>
+        <airlineName>Frontier Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:35:00</ett>
+        <ettFormatted>6:35 PM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N342FR</REG>
+        <CXR>F9</CXR>
+        <TRN>1019</TRN>
+        <CTY>MCO</CTY>
+        <sttSmallerFormatted>6:35P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620257700000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Orlando</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T10:40:00</stt>
+        <sttFormatted>10:40 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4346</flightNumber>
+        <status>Arrived 10:25A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>17</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T10:10:00</att>
+        <attFormatted>10:25 AM</attFormatted>
+        <ett>2021-05-05T10:25:00</ett>
+        <ettFormatted>10:25 AM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8553W</REG>
+        <CXR>WN</CXR>
+        <TRN>4346</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>10:40A</sttSmallerFormatted>
+        <attSmallerFormatted>10:25A</attSmallerFormatted>
+        <ettSmallerFormatted>10:25A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620229200000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T13:20:00</stt>
+        <sttFormatted>1:20 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3654</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>18</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:20:00</ett>
+        <ettFormatted>1:20 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N492WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3654</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>1:20P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:20P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620238800000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T14:22:00</stt>
+        <sttFormatted>2:22 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1083</flightNumber>
+        <status>Now 1:56P</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>26</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:56:00</ett>
+        <ettFormatted>1:56 PM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N916US</REG>
+        <CXR>AA</CXR>
+        <TRN>1083</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>2:22P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:56P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620242520000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T17:50:00</stt>
+        <sttFormatted>5:50 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4085</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>19</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:50:00</ett>
+        <ettFormatted>5:50 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N8518R</REG>
+        <CXR>WN</CXR>
+        <TRN>4085</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>5:50P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:50P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620255000000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T18:30:00</stt>
+        <sttFormatted>6:30 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 1760</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>23</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:30:00</ett>
+        <ettFormatted>6:30 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N663AW</REG>
+        <CXR>AA</CXR>
+        <TRN>1760</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>6:30P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:30P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620257400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T22:40:00</stt>
+        <sttFormatted>10:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3658</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:40:00</ett>
+        <ettFormatted>10:40 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N492WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3658</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>10:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620272400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Palm Springs</so>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Palm Springs</city>
+        <stt>2021-05-05T22:40:00</stt>
+        <sttFormatted>10:40 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3658</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>&#160;</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T22:40:00</ett>
+        <ettFormatted>10:40 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N492WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3658</TRN>
+        <CTY>PSP</CTY>
+        <sttSmallerFormatted>10:40P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>10:40P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620272400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Palm Springs</so>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Phoenix</city>
+        <stt>2021-05-05T23:45:00</stt>
+        <sttFormatted>11:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AA.jpg</airlineLogo>
+        <flightNumber>AA 691</flightNumber>
+        <status>On Time</status>
+        <bags>3</bags>
+        <terminal>1</terminal>
+        <gate>22</gate>
+        <airlineName>American Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:45:00</ett>
+        <ettFormatted>11:45 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N816NN</REG>
+        <CXR>AA</CXR>
+        <TRN>691</TRN>
+        <CTY>PHX</CTY>
+        <sttSmallerFormatted>11:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:45P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620276300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Phoenix</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Portland</city>
+        <stt>2021-05-05T18:30:00</stt>
+        <sttFormatted>6:30 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 1254</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>34</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:35:00</ett>
+        <ettFormatted>6:35 PM</ettFormatted>
+        <TYP>320</TYP>
+        <DIR>A</DIR>
+        <REG>N840VA</REG>
+        <CXR>AS</CXR>
+        <TRN>1254</TRN>
+        <CTY>PDX</CTY>
+        <sttSmallerFormatted>6:30P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620257400000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Portland</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Raleigh/Durham</city>
+        <stt>2021-05-05T13:22:00</stt>
+        <sttFormatted>1:22 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 5595</flightNumber>
+        <status>Now 1:10P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>7</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:10:00</ett>
+        <ettFormatted>1:10 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N244JQ</REG>
+        <CXR>DL</CXR>
+        <TRN>5595</TRN>
+        <CTY>RDU</CTY>
+        <sttSmallerFormatted>1:22P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:10P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620238920000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Raleigh/Durham</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Salt Lake Ct</city>
+        <stt>2021-05-05T13:50:00</stt>
+        <sttFormatted>1:50 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1200</flightNumber>
+        <status>Now 1:35P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>9</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:35:00</ett>
+        <ettFormatted>1:35 PM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N115DU</REG>
+        <CXR>DL</CXR>
+        <TRN>1200</TRN>
+        <CTY>SLC</CTY>
+        <sttSmallerFormatted>1:50P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620240600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Salt Lake Ct</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Salt Lake Ct</city>
+        <stt>2021-05-05T17:42:00</stt>
+        <sttFormatted>5:42 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 758</flightNumber>
+        <status>Now 5:31P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>9</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:31:00</ett>
+        <ettFormatted>5:31 PM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N307DU</REG>
+        <CXR>DL</CXR>
+        <TRN>758</TRN>
+        <CTY>SLC</CTY>
+        <sttSmallerFormatted>5:42P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:31P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620254520000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Salt Lake Ct</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Salt Lake Ct</city>
+        <stt>2021-05-06T00:52:00</stt>
+        <sttFormatted>12:52 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 2107</flightNumber>
+        <status>On Time</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>9</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-06T00:52:00</ett>
+        <ettFormatted>12:52 AM</ettFormatted>
+        <TYP>321</TYP>
+        <DIR>A</DIR>
+        <REG>N360DN</REG>
+        <CXR>DL</CXR>
+        <TRN>2107</TRN>
+        <CTY>SLC</CTY>
+        <sttSmallerFormatted>12:52A</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>12:52A</ettSmallerFormatted>
+        <sttDate>05-06-2021</sttDate>
+        <sttShortDate>05-06-21</sttShortDate>
+        <timeInMillis>1620280320000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Salt Lake Ct</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Diego</city>
+        <stt>2021-05-05T11:45:00</stt>
+        <sttFormatted>11:45 AM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3665</flightNumber>
+        <status>Arrived 11:25A</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>19</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>2021-05-05T11:10:00</att>
+        <attFormatted>11:25 AM</attFormatted>
+        <ett>2021-05-05T11:25:00</ett>
+        <ettFormatted>11:25 AM</ettFormatted>
+        <TYP>73H</TYP>
+        <DIR>A</DIR>
+        <REG>N8560Z</REG>
+        <CXR>WN</CXR>
+        <TRN>3665</TRN>
+        <CTY>SAN</CTY>
+        <sttSmallerFormatted>11:45A</sttSmallerFormatted>
+        <attSmallerFormatted>11:25A</attSmallerFormatted>
+        <ettSmallerFormatted>11:25A</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620233100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Diego</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Diego</city>
+        <stt>2021-05-05T14:43:00</stt>
+        <sttFormatted>2:43 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 2300</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>32</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:47:00</ett>
+        <ettFormatted>2:47 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N651QX</REG>
+        <CXR>AS</CXR>
+        <TRN>2300</TRN>
+        <CTY>SAN</CTY>
+        <sttSmallerFormatted>2:43P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:47P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243780000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Diego</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Diego</city>
+        <stt>2021-05-05T23:58:00</stt>
+        <sttFormatted>11:58 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 2584</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>5</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:58:00</ett>
+        <ettFormatted>11:58 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N643QX</REG>
+        <CXR>AS</CXR>
+        <TRN>2584</TRN>
+        <CTY>SAN</CTY>
+        <sttSmallerFormatted>11:58P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:58P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620277080000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Diego</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Francisco</city>
+        <stt>2021-05-05T14:42:00</stt>
+        <sttFormatted>2:42 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 281</flightNumber>
+        <status>Now 2:34P</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>33</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:34:00</ett>
+        <ettFormatted>2:34 PM</ettFormatted>
+        <TYP>319</TYP>
+        <DIR>A</DIR>
+        <REG>N826UA</REG>
+        <CXR>UA</CXR>
+        <TRN>281</TRN>
+        <CTY>SFO</CTY>
+        <sttSmallerFormatted>2:42P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:34P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620243720000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Francisco</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Francisco</city>
+        <stt>2021-05-05T14:53:00</stt>
+        <sttFormatted>2:53 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 2356</flightNumber>
+        <status>Now 2:44P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>34</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:44:00</ett>
+        <ettFormatted>2:44 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N635QX</REG>
+        <CXR>AS</CXR>
+        <TRN>2356</TRN>
+        <CTY>SFO</CTY>
+        <sttSmallerFormatted>2:53P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:44P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620244380000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Francisco</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Francisco</city>
+        <stt>2021-05-05T23:43:00</stt>
+        <sttFormatted>11:43 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 2370</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>2</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:43:00</ett>
+        <ettFormatted>11:43 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N635QX</REG>
+        <CXR>AS</CXR>
+        <TRN>2370</TRN>
+        <CTY>SFO</CTY>
+        <sttSmallerFormatted>11:43P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:43P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620276180000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Francisco</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Jose</city>
+        <stt>2021-05-05T13:44:00</stt>
+        <sttFormatted>1:44 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 2209</flightNumber>
+        <status>Now 1:35P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>34</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T13:35:00</ett>
+        <ettFormatted>1:35 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N649QX</REG>
+        <CXR>AS</CXR>
+        <TRN>2209</TRN>
+        <CTY>SJC</CTY>
+        <sttSmallerFormatted>1:44P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>1:35P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620240240000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Jose</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>San Jose</city>
+        <stt>2021-05-05T16:20:00</stt>
+        <sttFormatted>4:20 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 3863</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>20</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:20:00</ett>
+        <ettFormatted>4:20 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N249WN</REG>
+        <CXR>WN</CXR>
+        <TRN>3863</TRN>
+        <CTY>SJC</CTY>
+        <sttSmallerFormatted>4:20P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:20P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620249600000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>San Jose</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Seattle</city>
+        <stt>2021-05-05T15:06:00</stt>
+        <sttFormatted>3:06 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/DL.jpg</airlineLogo>
+        <flightNumber>DL 1104</flightNumber>
+        <status>Now 2:37P</status>
+        <bags>7</bags>
+        <terminal>1</terminal>
+        <gate>5</gate>
+        <airlineName>Delta Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:37:00</ett>
+        <ettFormatted>2:37 PM</ettFormatted>
+        <TYP>221</TYP>
+        <DIR>A</DIR>
+        <REG>N139DU</REG>
+        <CXR>DL</CXR>
+        <TRN>1104</TRN>
+        <CTY>SEA</CTY>
+        <sttSmallerFormatted>3:06P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:37P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245160000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Seattle</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Seattle</city>
+        <stt>2021-05-05T15:19:00</stt>
+        <sttFormatted>3:19 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 1144</flightNumber>
+        <status>Now 2:44P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>22</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T14:44:00</ett>
+        <ettFormatted>2:44 PM</ettFormatted>
+        <TYP>73J</TYP>
+        <DIR>A</DIR>
+        <REG>N264AK</REG>
+        <CXR>AS</CXR>
+        <TRN>1144</TRN>
+        <CTY>SEA</CTY>
+        <sttSmallerFormatted>3:19P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>2:44P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245940000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Seattle</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Seattle</city>
+        <stt>2021-05-05T17:24:00</stt>
+        <sttFormatted>5:24 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 1400</flightNumber>
+        <status>Now 5:08P</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>34</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T17:08:00</ett>
+        <ettFormatted>5:08 PM</ettFormatted>
+        <TYP>73J</TYP>
+        <DIR>A</DIR>
+        <REG>N428AS</REG>
+        <CXR>AS</CXR>
+        <TRN>1400</TRN>
+        <CTY>SEA</CTY>
+        <sttSmallerFormatted>5:24P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>5:08P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620253440000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Seattle</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Seattle</city>
+        <stt>2021-05-05T23:59:00</stt>
+        <sttFormatted>11:59 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/AS.jpg</airlineLogo>
+        <flightNumber>AS 1146</flightNumber>
+        <status>On Time</status>
+        <bags>2</bags>
+        <terminal>1</terminal>
+        <gate>4</gate>
+        <airlineName>Alaska Air</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T23:59:00</ett>
+        <ettFormatted>11:59 PM</ettFormatted>
+        <TYP>73J</TYP>
+        <DIR>A</DIR>
+        <REG>N280AK</REG>
+        <CXR>AS</CXR>
+        <TRN>1146</TRN>
+        <CTY>SEA</CTY>
+        <sttSmallerFormatted>11:59P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>11:59P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620277140000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Seattle</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>St. Louis</city>
+        <stt>2021-05-05T15:05:00</stt>
+        <sttFormatted>3:05 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4413</flightNumber>
+        <status>Now 4:50P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>16</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:50:00</ett>
+        <ettFormatted>4:50 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N298WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4413</TRN>
+        <CTY>STL</CTY>
+        <sttSmallerFormatted>3:05P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:50P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Providence</so>
+            <so>Orlando</so>
+            <so>St. Louis</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Providence</city>
+        <stt>2021-05-05T15:05:00</stt>
+        <sttFormatted>3:05 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4413</flightNumber>
+        <status>Now 4:50P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>16</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:50:00</ett>
+        <ettFormatted>4:50 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N298WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4413</TRN>
+        <CTY>PVD</CTY>
+        <sttSmallerFormatted>3:05P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:50P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Providence</so>
+            <so>Orlando</so>
+            <so>St. Louis</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Orlando</city>
+        <stt>2021-05-05T15:05:00</stt>
+        <sttFormatted>3:05 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4413</flightNumber>
+        <status>Now 4:50P</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>16</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T16:50:00</ett>
+        <ettFormatted>4:50 PM</ettFormatted>
+        <TYP>73G</TYP>
+        <DIR>A</DIR>
+        <REG>N298WN</REG>
+        <CXR>WN</CXR>
+        <TRN>4413</TRN>
+        <CTY>MCO</CTY>
+        <sttSmallerFormatted>3:05P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>4:50P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620245100000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Providence</so>
+            <so>Orlando</so>
+            <so>St. Louis</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Washington-DCA</city>
+        <stt>2021-05-05T18:45:00</stt>
+        <sttFormatted>6:45 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/WN.jpg</airlineLogo>
+        <flightNumber>WN 4843</flightNumber>
+        <status>On Time</status>
+        <bags>4</bags>
+        <terminal>1</terminal>
+        <gate>20</gate>
+        <airlineName>Southwest Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T18:45:00</ett>
+        <ettFormatted>6:45 PM</ettFormatted>
+        <TYP>738</TYP>
+        <DIR>A</DIR>
+        <REG>N8654B</REG>
+        <CXR>WN</CXR>
+        <TRN>4843</TRN>
+        <CTY>DCA</CTY>
+        <sttSmallerFormatted>6:45P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>6:45P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620258300000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Washington-DCA</so>
+        </cities>
+    </flight>
+    <flight>
+        <city>Washington-DUL</city>
+        <stt>2021-05-05T20:36:00</stt>
+        <sttFormatted>8:36 PM</sttFormatted>
+        <airlineLogo>/webfids/logos/UA.jpg</airlineLogo>
+        <flightNumber>UA 6064</flightNumber>
+        <status>On Time</status>
+        <bags>1</bags>
+        <terminal>1</terminal>
+        <gate>33</gate>
+        <airlineName>United Airlines</airlineName>
+        <direction>Arrival</direction>
+        <att>#</att>
+        <attFormatted>&#160;</attFormatted>
+        <ett>2021-05-05T20:36:00</ett>
+        <ettFormatted>8:36 PM</ettFormatted>
+        <TYP>E75</TYP>
+        <DIR>A</DIR>
+        <REG>N85369</REG>
+        <CXR>UA</CXR>
+        <TRN>6064</TRN>
+        <CTY>IAD</CTY>
+        <sttSmallerFormatted>8:36P</sttSmallerFormatted>
+        <attSmallerFormatted>&#160;</attSmallerFormatted>
+        <ettSmallerFormatted>8:36P</ettSmallerFormatted>
+        <sttDate>05-05-2021</sttDate>
+        <sttShortDate>05-05-21</sttShortDate>
+        <timeInMillis>1620264960000</timeInMillis>
+        <CTR>&#160;</CTR>
+        <CDS>&#160;</CDS>
+        <codeShareLogo>&#160;</codeShareLogo>
+        <codeShares>&#160;</codeShares>
+        <PAX>&#160;</PAX>
+        <STN>&#160;</STN>
+        <RMK>&#160;</RMK>
+        <DII>D</DII>
+        <cities>
+            <so>Washington-DUL</so>
+        </cities>
+    </flight>
+    <config>
+        <numFlights>131</numFlights>
+        <currentTime>2021-05-05, 12:53 PM</currentTime>
+        <shortTime>12:53 PM</shortTime>
+        <longTime>Wed, May 5, 2021</longTime>
+        <dpn></dpn>
+        <mdpn></mdpn>
+    </config>
+    <pageDetails>
+        <pageNo>#</pageNo>
+        <pageName>Flipper</pageName>
+        <isFullFlip>false</isFullFlip>
+        <fdirection>#</fdirection>
+    </pageDetails>
+    <messages></messages>
+</data>
