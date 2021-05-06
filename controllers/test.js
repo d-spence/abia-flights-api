@@ -7,7 +7,7 @@ const getFlightsTest = (req, res, fn) => {
     if (err) {
       res.send(err);
     } else {
-      res.json(JSON.parse(data));
+      res.json(JSON.parse(data).data);
     }
   });
 }
@@ -17,7 +17,7 @@ const getXMLFlightsTest = (req, res, fn) => {
     if (err) {
       res.send(err);
     } else {
-      let jsonData = convertXMLtoJSON(data);
+      let jsonData = convertXMLtoJSON(data).data;
       res.json(jsonData);
     }
   });

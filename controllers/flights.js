@@ -8,7 +8,7 @@ const getFlights = (req, res, url) => {
     .then(res => res.text())
     .then(data => {
       // respond with converted json data
-      res.status(200).json(convertXMLtoJSON(data));
+      res.json(convertXMLtoJSON(data).data);
     })
     .catch(err => console.log(err));
 }
