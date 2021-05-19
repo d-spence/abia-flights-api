@@ -25,8 +25,8 @@ app.use(cors());
 
 // Routes ======================================================================
 app.get('/', (req, res) => res.sendFile('/index.html'));
-// app.get('/arrivals', (req, res) => flights.getFlights(req, res, arrivalsUrl));
-// app.get('/departures', (req, res) => flights.getFlights(req, res, departuresUrl));
+app.get('/arrivals', (req, res) => flights.getFlights(req, res, arrivalsUrl));
+app.get('/departures', (req, res) => flights.getFlights(req, res, departuresUrl));
 app.get('/test/arrivals', (req, res) => test.getFlightsTest(req, res, arrivalsFile));
 app.get('/test/departures', (req, res) => test.getFlightsTest(req, res, departuresFile));
 app.get('/test/xml', (req, res) => test.getXMLFlightsTest(req, res, xmlFile));
